@@ -6,35 +6,11 @@
 
 </div>
 
-<style>
-  .banner {
-    width: 100%;
-    height: 250px;
-    background: linear-gradient(
-      -45deg,
-      #6a85b6,
-      #bac8e0,
-      #7f7fd5,
-      #91eae4
-    );
-    background-size: 400% 400%;
-    animation: gradient 10s ease infinite;
-    border-radius: 20px;
-  }
+<div align="center">
 
-  @keyframes gradient {
-    0% {
-      background-position: 0% 50%;
-    }
-    50% {
-      background-position: 100% 50%;
-    }
-    100% {
-      background-position: 0% 50%;
-    }
-  }
-</style>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A85B6,100:BAC8E0&height=250&section=header&text=MD.%20MONIMUL%20ISLAM!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Junior%20Web%20Developer&descAlignY=60"/>
 
+</div>
 <div class="banner"></div>
 
 ## 🚀 About Me
