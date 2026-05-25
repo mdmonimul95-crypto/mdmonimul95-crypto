@@ -52,7 +52,7 @@ I enjoy solving real-world problems through clean and scalable code while contin
 🌐 Netlify
 
 
-## 🛠️ Skills & Tools
+
 
 <p align="left">
 
@@ -69,6 +69,11 @@ I enjoy solving real-world problems through clean and scalable code while contin
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 
+</p>
+
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css,nodejs,express,mongodb,androidstudio,java,firebase,figma,github,cloudflare&perline=8" />
 </p>
 
 ---
