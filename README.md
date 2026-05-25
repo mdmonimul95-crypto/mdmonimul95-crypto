@@ -1,14 +1,14 @@
 # Hi there, I'm MD. MONIMUL ISLAM! 👋
 <div align="center">
 
-<h1>Masudur Rahman</h1>
+<h1></h1>
 <h3>Junior Web Developer</h3>
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A85B6,100:BAC8E0&height=250&section=header&text=MD.%20MONIMUL%20ISLAM!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Junior%20Web%20Developer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=250&section=header&text=MD.%20MONIMUL%20ISLAM&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Junior%20Web%20Developer&descAlignY=60"/>
 
 </div>
 <div class="banner"></div>
